@@ -1,0 +1,12 @@
+# Ignore large/raw data
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Office temp files
+~$*
