@@ -10,3 +10,6 @@ __pycache__/
 
 # Office temp files
 ~$*
+
+# Word docs
+*.docx
