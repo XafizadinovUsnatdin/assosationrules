@@ -1,7 +1,4 @@
 # Association Rules Notebook
-
-This repo keeps the working notebook and sample market basket data for exploring association rules.
-
-- bdm-week2.ipynb — notebook with list/dict/NumPy basics and an Association Rules section (source: https://www.kaggle.com/code/plenoi/bdm-week2/notebook#Association-Rules).
+- bdm-week2.ipynb — notebook with list/dict/NumPy basics and an Association Rules section
 - market.csv — small sample basket dataset used inside the notebook.
 
